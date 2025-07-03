@@ -1,9 +1,9 @@
 # MohammwdBadawi
-# Hi 👋, I'm Mohmed Badawi
+# Hi 👋, I'm Mohammed Badawi
 
 🎯 Full Stack Asp.Net core Web Developer from **Jordan** 🇯🇴  
 💻 Passionate about building modern and scalable web applications.  
-📫 Reach me at: [mobadawi65@gmail.com.com] or on [LinkedIn](https://www.linkedin.com/in/mohamed-badawi-651080243/)
+📫 Reach me at: [mobadawi65@gmail.com] or on [LinkedIn](https://www.linkedin.com/in/mohamed-badawi-651080243/)
 
 ---
 
